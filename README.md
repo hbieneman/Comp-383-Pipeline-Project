@@ -3,8 +3,11 @@ We are comparing HCMV transcriptomes 2- and 6-days post-infection (dpi). I chose
 
 # Donor downloads: 
 wget -O donor1_2dpi.fastq.gz "https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR5660030/SRR5660030"
+
 wget -O donor1_6dpi.fastq.gz "https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR5660033/SRR5660033"
+
 wget -O donor3_2dpi.fastq.gz "https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR5660044/SRR5660044"
+
 wget -O donor3_6dpi.fastq.gz "https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR5660045/SRR5660045"
 
 # Build bowtie index:
